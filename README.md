@@ -1,5 +1,5 @@
 # Frontend Mentor - Manage landing page
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub)
+This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub)
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Manage landing page coding challenge](https://github.com/brycezubi/time-tracking-dahsboard/blob/main/public/design/desktop-preview.jpg)
+![Design preview for the Manage landing page coding challenge](https://github.com/brycezubi/manage-landing/blob/main/public/design/desktop-preview.jpg)
 
 ### Links
 
